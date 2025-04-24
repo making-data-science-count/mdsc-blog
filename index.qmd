@@ -1,0 +1,17 @@
+---
+title: "Homepage"                  # Big visible page title
+title-block-banner: true          # Show it as a banner
+page-layout: article              # Make sure it's not overridden by listing
+
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+---
+
+Welcome to the Making Data Science Count Research Group at the University of Tennessee, Knoxville homepage!
+
+![](img/mdsc-logo.png){fig-alt="Research group logo"}

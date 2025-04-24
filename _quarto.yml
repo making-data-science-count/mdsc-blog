@@ -1,0 +1,22 @@
+project:
+  type: website
+
+title: "Making Data Science Count Research Group"  # Site-wide title (navbar, browser tab)
+
+website:
+  navbar:
+    title: "Making Data Science Count Research Group"   # <- this shows in the navbar
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "People"
+        href: people.qmd
+
+page-layout: full
+
+format:
+  html:
+    theme:
+      light: litera

@@ -1,0 +1,8 @@
+---
+title: "Presentations at AERA 2025"
+author: "Josh"
+date: "2025-04-21"
+categories: [news]
+---
+
+The Making Data Science Count Research Group has a number of presentations at AERA 2025!
