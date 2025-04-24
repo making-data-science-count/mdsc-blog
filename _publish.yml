@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: b0660980-c7a2-4ebe-83e0-7684804291ae
+      url: https://jrosenberg.quarto.pub/mdsc-blog
