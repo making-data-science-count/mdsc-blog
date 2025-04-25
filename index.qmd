@@ -1,5 +1,5 @@
 ---
-title: "Homepage"                  # Big visible page title
+title: "Welcome!"                  # Big visible page title
 title-block-banner: true          # Show it as a banner
 page-layout: article              # Make sure it's not overridden by listing
 
@@ -12,6 +12,14 @@ listing:
   filter-ui: false
 ---
 
-Welcome to the Making Data Science Count Research Group at the University of Tennessee, Knoxville homepage!
+![](img/mdsc-group-pic.jpeg){fig-alt="Group photo"}
 
-![](img/mdsc-logo.png){fig-alt="Research group logo"}
+Welcome to the website for the *Making Data Science Count* Research Group.
+
+![](img/mdsc-logo.png){fig-alt="Research group logo" fig-align="center" width="308"}
+
+We are based in the College of Education, Health, and Human Sciences at the University of Tennessee, Knoxville.
+
+![](img/utk-logo.png){fig-align="center" width="192"}
+
+Please visit the [About Us](about-us.qmd) page to learn a bit more about the group and its members, the [Projects](projects.qmd) page for ongoing research endeavors, and [Resources](resources.qmd) to links to presentations, papers, software, curricula, and other products that come from our research.

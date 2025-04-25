@@ -1,0 +1,31 @@
+---
+title: "Projects"
+---
+
+## [Project CREDIBLE](https://projectcredible.com/)
+
+Project CREDIBLE is an NSF CAREER-program funded STEM education research project associated with the University of Tennessee, Knoxville, The Great Smoky Mountains Institute at Tremont, and DataClassroom.
+
+## Social Media and Student Privacy
+
+We have a number of ongoing projects focused on social media data and student privacy. Here's [one recent example open-access paper](https://www.sciencedirect.com/science/article/pii/S2666557324000375).
+
+## [T(CA)^2](https://tca2.education.illinois.edu/)
+
+Theory-based Computational Analysis of Classroom Audiovisual Data, or T(CA)^2 as we like to refer to it, is a three-year National Science Foundation-funded project focused on advancing methodologies that combine grounded theory based approaches with computational analyses of classroom video data.
+
+## [Konfound-It!](https://konfound-it.org/)
+
+The assumptions underlying statistical analysis are rarely fully met. Pragmatists face the challenge of knowing when evidence is strong enough to justify action, and that’s where sensitivity analysis helps by testing the robustness of inferences against potential biases. For instance, sensitivity indices can quantify how much of the observed effect would need to be bias-driven to alter conclusions. We are building on these ideas by developing the methods and associated resources listed on this page.
+
+## [Data Puzzles](https://www.datapuzzles.org/)
+
+We are working with a team led by scholars at Colorado University, Boulder, to develop and study Data Puzzles, data-rich resources and lessons for science teachers. We believe that students should learn science the same way scientists do - through exploration, discovery, and sense-making grounded in observations of the natural world. In a way, science is like a puzzle - the bigger picture is revealed after hunting for and putting the pieces together. Our planet is full of exciting and intriguing phenomena - invite them into your science classroom today!
+
+## [GoGo Boards at NySci](https://tltlab.org/gogo-board/)
+
+We are working with a team at Columbia University to understand the effects of youth using programmable sensors to plan and carry out and analyze data from data colleciton activities. This project is carried out at the [New York Hall of Science](https://nysci.org/).
+
+
+
+

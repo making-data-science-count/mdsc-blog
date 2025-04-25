@@ -9,10 +9,10 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "About"
+      - text: "About and People"
         href: about.qmd
-      - text: "People"
-        href: people.qmd
+      - text: "Projects"
+        href: projects.qmd
   site-url: https://makingdatasciencecount.com  # This stays in website:
 
 cname: makingdatasciencecount.com  # This goes at the top level (outside website:)
