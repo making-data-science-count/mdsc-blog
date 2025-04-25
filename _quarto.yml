@@ -1,11 +1,11 @@
 project:
   type: website
 
-title: "Making Data Science Count Research Group"  # Site-wide title (navbar, browser tab)
+title: "Making Data Science Count Research Group"
 
 website:
   navbar:
-    title: "Making Data Science Count Research Group"   # <- this shows in the navbar
+    title: "Making Data Science Count Research Group"
     left:
       - text: "Home"
         href: index.qmd
@@ -13,13 +13,11 @@ website:
         href: about.qmd
       - text: "People"
         href: people.qmd
+  site-url: https://makingdatasciencecount.com  # This stays in website:
 
-page-layout: full
+cname: makingdatasciencecount.com  # This goes at the top level (outside website:)
 
 format:
   html:
     theme:
       light: litera
-
-publish:
-  provider: gh-pages
