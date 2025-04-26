@@ -1,6 +1,6 @@
 ---
 title: "Welcome!"                  # Big visible page title
-title-block-banner: true          # Show it as a banner
+title-block-banner: false          # Show it as a banner
 page-layout: article              # Make sure it's not overridden by listing
 
 listing:
