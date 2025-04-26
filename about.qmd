@@ -2,12 +2,6 @@
 title: "About"
 ---
 
-## About the Research Group
-
-The mission of the Making Data Science Count Research Group research group is to leverage the collective efforts of its members to study science education, computer and data science education, and educational technology–and other domains. This group will be dynamic and inclusive in its work (due to the expertise members bring and valuing of that expertise). The group studies both K-12 and post-secondary and informal learning and uses a variety of theoretical and methodological approaches to do so.
-
-## People
-
 ### Faculty
 
 <div class="profile">
