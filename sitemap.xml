@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://makingdatasciencecount.com/about-us.html</loc>
-    <lastmod>2025-04-26T13:06:58.466Z</lastmod>
-  </url>
-  <url>
-    <loc>https://makingdatasciencecount.com/resources.html</loc>
-    <lastmod>2025-04-26T13:06:58.475Z</lastmod>
-  </url>
-  <url>
-    <loc>https://makingdatasciencecount.com/about.html</loc>
-    <lastmod>2025-04-26T13:06:58.466Z</lastmod>
-  </url>
-  <url>
-    <loc>https://makingdatasciencecount.com/posts/welcome/index.html</loc>
-    <lastmod>2025-04-26T13:06:58.474Z</lastmod>
-  </url>
-  <url>
-    <loc>https://makingdatasciencecount.com/people.html</loc>
-    <lastmod>2025-04-26T13:06:58.474Z</lastmod>
+    <loc>https://makingdatasciencecount.com/projects.html</loc>
+    <lastmod>2025-04-26T13:08:53.681Z</lastmod>
   </url>
   <url>
     <loc>https://makingdatasciencecount.com/index.html</loc>
-    <lastmod>2025-04-26T13:06:58.474Z</lastmod>
+    <lastmod>2025-04-26T13:08:53.681Z</lastmod>
   </url>
   <url>
-    <loc>https://makingdatasciencecount.com/projects.html</loc>
-    <lastmod>2025-04-26T13:06:58.475Z</lastmod>
+    <loc>https://makingdatasciencecount.com/posts/welcome/index.html</loc>
+    <lastmod>2025-04-26T13:08:53.681Z</lastmod>
+  </url>
+  <url>
+    <loc>https://makingdatasciencecount.com/about.html</loc>
+    <lastmod>2025-04-26T13:08:53.673Z</lastmod>
+  </url>
+  <url>
+    <loc>https://makingdatasciencecount.com/resources.html</loc>
+    <lastmod>2025-04-26T13:08:53.681Z</lastmod>
   </url>
 </urlset>
