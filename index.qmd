@@ -20,7 +20,7 @@ Welcome to the website for the *Making Data Science Count* Research Group.
 
 We are based in the College of Education, Health, and Human Sciences at the University of Tennessee, Knoxville.
 
-The mission of the Making Data Science Count Research Group research group is to leverage the collective efforts of its members to study science education, computer and data science education, and educational technology–and other domains. The group is dynamic and inclusive, reflecting the group's expertise. The group studies both K-12 and post-secondary and informal learning and uses a variety of theoretical and methodological approaches to do so.
+The mission of the Making Data Science Count Research Group research group is to leverage the collective efforts of its members to study science education, computer and data science education, and educational technology–and other domains. The group is dynamic and inclusive, reflecting the group's expertise and how group members collaborate. The group studies both K-12 and post-secondary and informal learning and uses a variety of theoretical and methodological approaches to do so.
 
 ![](img/utk-logo.png){fig-align="center" width="192"}
 

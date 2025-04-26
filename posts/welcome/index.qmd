@@ -7,9 +7,7 @@ categories: [conference, AERA, presentations]
 
 The Making Data Science Count Research Group had a number of presentations at [AERA 2025](https://www.aera.net/Events-Meetings/AERA-2025-Annual-Meeting)!
 
-## AERA 2025 Presentations – Making Data Science Count Research Group
-
-### <span style="color: #f77f00;"><strong>How Are Robots Used in Education? Mapping the Robotics Resources Landscape on Teachers Pay Teachers (Poster 45)</strong></span>
+### How Are Robots Used in Education? Mapping the Robotics Resources Landscape on Teachers Pay Teachers
 
 **Time:** Wednesday, April 23, 2:30–4:00 p.m. MDT  
 **Place:** Colorado Convention Center, Exhibit Hall F, Exhibit Hall Level  
@@ -17,7 +15,7 @@ The Making Data Science Count Research Group had a number of presentations at [A
 
 <hr style="border-top: 2px solid #f77f00;">
 
-### <span style="color: #f77f00;"><strong>AI and Educational Justice: A Critical Conversation (Team 2)</strong></span>
+### AI and Educational Justice: A Critical Conversation
 
 **Time:** Wednesday, April 23, 2:30–4:00 p.m. MDT  
 **Place:** Colorado Convention Center, Mile High Ballroom 1AB, Ballroom Level  
@@ -25,23 +23,27 @@ The Making Data Science Count Research Group had a number of presentations at [A
 
 <hr style="border-top: 2px solid #f77f00;">
 
-### <span style="color: #f77f00;"><strong>The Accessibility of Published Educational Research</strong></span>
+### The Accessibility of Published Educational Research
 
 **Time:** Thursday, April 24, 1:45–3:15 p.m. MDT  
 **Place:** Colorado Convention Center, Four Seasons Ballroom 2-3, Ballroom Level  
-**Authors:** <span style="color: #f77f00;"><strong>Joshua M. Rosenberg</strong></span>, University of Tennessee; George Veletsianos, University of Minnesota; Enilda J. Romero-Hall, University of Tennessee; Emilie Allen, University of Tennessee  
+**Authors:** <span style="color: #f77f00;"><strong>Joshua M. Rosenberg</strong></span>, University of Tennessee; George Veletsianos, University of Minnesota; Enilda J. Romero-Hall, University of Tennessee; Emilie Allen, University of Tennessee
+
+[Link to presentation](tiny.utk.edu/open)
 
 <hr style="border-top: 2px solid #f77f00;">
 
-### <span style="color: #f77f00;"><strong>Developing an Assessment of Informal Data Science Learning: Two Cycles of Development, Implementation, and Revision</strong></span>
+### Developing an Assessment of Informal Data Science Learning: Two Cycles of Development, Implementation, and Revision
 
 **Time:** Friday, April 25, 11:40 a.m.–1:10 p.m. MDT  
 **Place:** Colorado Convention Center, Room 403, Meeting Room Level  
 **Authors:** Leah Rosenbaum, Teachers College, Columbia University; Cody C. Pritchard, University of Tennessee; <span style="color: #f77f00;"><strong>Joshua M. Rosenberg</strong></span>, University of Tennessee; Paulo Blikstein, Teachers College, Columbia University  
 
+[Link to presentation](tiny.utk.edu/gogo)
+
 <hr style="border-top: 2px solid #f77f00;">
 
-### <span style="color: #f77f00;"><strong>College Students' Interactions with Canvas LMS (Learning Management System) in a Blended Learning Environment (Poster 9)</strong></span>
+### College Students' Interactions with Canvas LMS (Learning Management System) in a Blended Learning Environment
 
 **Time:** Sunday, April 27, 1:30–3:00 p.m. MDT  
 **Place:** Colorado Convention Center, Exhibit Hall F, Exhibit Hall Level  
