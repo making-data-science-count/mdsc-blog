@@ -2,26 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://makingdatasciencecount.com/about-us.html</loc>
-    <lastmod>2025-04-25T16:54:02.293Z</lastmod>
+    <lastmod>2025-04-26T13:02:28.368Z</lastmod>
   </url>
   <url>
-    <loc>https://makingdatasciencecount.com/index.html</loc>
-    <lastmod>2025-04-25T16:54:02.301Z</lastmod>
-  </url>
-  <url>
-    <loc>https://makingdatasciencecount.com/people.html</loc>
-    <lastmod>2025-04-25T16:54:02.301Z</lastmod>
-  </url>
-  <url>
-    <loc>https://makingdatasciencecount.com/posts/welcome/index.html</loc>
-    <lastmod>2025-04-25T16:54:02.302Z</lastmod>
+    <loc>https://makingdatasciencecount.com/resources.html</loc>
+    <lastmod>2025-04-26T13:02:28.377Z</lastmod>
   </url>
   <url>
     <loc>https://makingdatasciencecount.com/about.html</loc>
-    <lastmod>2025-04-25T16:54:02.293Z</lastmod>
+    <lastmod>2025-04-26T13:02:28.368Z</lastmod>
+  </url>
+  <url>
+    <loc>https://makingdatasciencecount.com/posts/welcome/index.html</loc>
+    <lastmod>2025-04-26T13:02:28.376Z</lastmod>
+  </url>
+  <url>
+    <loc>https://makingdatasciencecount.com/people.html</loc>
+    <lastmod>2025-04-26T13:02:28.376Z</lastmod>
+  </url>
+  <url>
+    <loc>https://makingdatasciencecount.com/index.html</loc>
+    <lastmod>2025-04-26T13:02:28.376Z</lastmod>
   </url>
   <url>
     <loc>https://makingdatasciencecount.com/projects.html</loc>
-    <lastmod>2025-04-25T16:54:02.302Z</lastmod>
+    <lastmod>2025-04-26T13:02:28.377Z</lastmod>
   </url>
 </urlset>
