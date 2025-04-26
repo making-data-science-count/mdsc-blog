@@ -6,10 +6,6 @@ title: "Projects"
 
 Project CREDIBLE is an NSF CAREER-program funded STEM education research project associated with the University of Tennessee, Knoxville, The Great Smoky Mountains Institute at Tremont, and DataClassroom.
 
-## Social Media and Student Privacy
-
-We have a number of ongoing projects focused on social media data and student privacy. Here's [one recent example open-access paper](https://www.sciencedirect.com/science/article/pii/S2666557324000375).
-
 ## [T(CA)^2](https://tca2.education.illinois.edu/)
 
 Theory-based Computational Analysis of Classroom Audiovisual Data, or T(CA)^2 as we like to refer to it, is a three-year National Science Foundation-funded project focused on advancing methodologies that combine grounded theory based approaches with computational analyses of classroom video data.
@@ -26,6 +22,6 @@ We are working with a team led by scholars at Colorado University, Boulder, to d
 
 We are working with a team at Columbia University to understand the effects of youth using programmable sensors to plan and carry out and analyze data from data colleciton activities. This project is carried out at the [New York Hall of Science](https://nysci.org/).
 
+## Social Media and Student Privacy
 
-
-
+We have a number of ongoing projects focused on social media data and student privacy. Here's [one recent example open-access paper](https://www.sciencedirect.com/science/article/pii/S2666557324000375).

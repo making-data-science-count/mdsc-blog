@@ -1,0 +1,25 @@
+---
+title: "Resources"
+---
+
+## Software
+
+[KonFound-It! Shiny app](https://konfound-project.shinyapps.io/konfound-it/)
+
+[KonFound-It! R package](https://konfound-it.org/konfound/)
+
+[tidyLPA R package](https://data-edu.github.io/tidyLPA/)
+
+[AmplifyGAIN](https://www.amplifylearn.ai/amplifygain-generative-ai-for-transformative-learning/)
+
+## Recent Open-Access Papers
+
+Rosenberg, J., Kubsch, M., Sorge, S., Tautz, S., Pritchard, C., Garner, A., & Xu, Z. (2025). Embracing Uncertainty in Science: The ABCs of Data and the Confidence Updater. [link](https://osf.io/rg6xb/download)
+
+Borchers, C., Darriet, C., Rosenberg, J. M., & López, F. (2025). Dual Intent in Dual-language Programs: Internet Data Mining of School District Communications. TechTrends, 1-13. [link](https://link.springer.com/content/pdf/10.1007/s11528-025-01049-1.pdf)
+
+Pritchard, C., Borchers, C., Joshua, M. R., Fox, A. K., & Stegenga, S. M. (2024). The datafication of student information on X (Twitter). Computers and Education Open, 7, 100197. [link](https://www.sciencedirect.com/science/article/pii/S2666557324000375)
+
+Rosenberg, J. M., Bhidya, H., & Pritchard, C. (2025). Triangulating Computational and Qualitative Methods to Measure Scientific Uncertainty. In Applying Machine Learning in Science Education Research: When, How, and Why? (pp. 313-329). Cham: Springer Nature Switzerland. [link](https://library.oapen.org/bitstream/handle/20.500.12657/99864/9783031742279.pdf?sequence=1#page=320)
+
+Dogucu, M., Kazak, S., & Rosenberg, J. M. (2024). The Design and Implementation of a Bayesian Data Analysis Lesson for Pre-Service Mathematics and Science Teachers. Journal of Statistics and Data Science Education, 1-12. [link](https://www.tandfonline.com/doi/pdf/10.1080/26939169.2024.2362148)

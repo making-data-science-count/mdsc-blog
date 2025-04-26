@@ -2,7 +2,60 @@
 title: "Presentations at AERA 2025"
 author: "Josh"
 date: "2025-04-21"
-categories: [news]
+categories: [conference, AERA, presentations]
 ---
 
-The Making Data Science Count Research Group has a number of presentations at AERA 2025!
+The Making Data Science Count Research Group had a number of presentations at AERA 2025!
+
+::: {.callout-note}
+**Poster Session:** <span style="color: #f77f00;"><strong>How Are Robots Used in Education?</strong></span>
+:::
+
+📅 **Time:** Wednesday, April 23, 2:30–4:00 p.m. MDT  
+📍 **Place:** Colorado Convention Center, Exhibit Hall F, Exhibit Hall Level  
+👥 **Authors:** <span style="color: #f77f00;"><strong>Hanhui Bao</strong></span>, University of Tennessee; Yiwen Li, Arizona State University; Zhaoji Wang, University of Hong Kong; <span style="color: #f77f00;"><strong>Joshua M. Rosenberg</strong></span>, University of Tennessee; Matthew J. Koehler, Michigan State University  
+🎯 **Title:** *How Are Robots Used in Education? Mapping the Robotics Resources Landscape on Teachers Pay Teachers (Poster 45)*
+
+<hr style="border-top: 2px solid #f77f00;">
+
+::: {.callout-tip}
+**Roundtable:** <span style="color: #f77f00;"><strong>The Accessibility of Published Educational Research</strong></span>
+:::
+
+📅 **Time:** Thursday, April 24, 1:45–3:15 p.m. MDT  
+📍 **Place:** Colorado Convention Center, Four Seasons Ballroom 2-3, Ballroom Level  
+👥 **Authors:** <span style="color: #f77f00;"><strong>Joshua M. Rosenberg</strong></span>, University of Tennessee; George Veletsianos, University of Minnesota; Enilda J. Romero-Hall, University of Tennessee; Emilie Allen, University of Tennessee  
+🎯 **Title:** *The Accessibility of Published Educational Research*
+
+<hr style="border-top: 2px solid #f77f00;">
+
+::: {.callout-important}
+**Panel:** <span style="color: #f77f00;"><strong>AI and Educational Justice: A Critical Conversation</strong></span>
+:::
+
+📅 **Time:** Wednesday, April 23, 2:30–4:00 p.m. MDT  
+📍 **Place:** Colorado Convention Center, Mile High Ballroom 1AB, Ballroom Level  
+👥 **Authors:** Christina Krist, Stanford University; Elizabeth B. Dyer, University of Illinois at Urbana-Champaign; Eugene M. Cox, University of Illinois at Urbana-Champaign; <span style="color: #f77f00;"><strong>Joshua M. Rosenberg</strong></span>, University of Tennessee  
+🎯 **Title:** *AI and Educational Justice: A Critical Conversation (Team 2)*
+
+<hr style="border-top: 2px solid #f77f00;">
+
+::: {.callout-important}
+**Panel:** <span style="color: #f77f00;"><strong>From Animation to AI – Innovative Tools for Modeling and Assessing Science Learning</strong></span>
+:::
+
+📅 **Time:** Friday, April 25, 11:40 a.m.–1:10 p.m. MDT  
+📍 **Place:** Colorado Convention Center, Room 403, Meeting Room Level  
+👥 **Authors:** Leah Rosenbaum, Teachers College, Columbia University; Cody C. Pritchard, University of Tennessee; <span style="color: #f77f00;"><strong>Joshua M. Rosenberg</strong></span>, University of Tennessee; Paulo Blikstein, Teachers College, Columbia University  
+🎯 **Title:** *Developing an Assessment of Informal Data Science Learning: Two Cycles of Development, Implementation, and Revision*
+
+<hr style="border-top: 2px solid #f77f00;">
+
+::: {.callout-note}
+**Poster Session:** <span style="color: #f77f00;"><strong>College Students' Interactions with Canvas LMS</strong></span>
+:::
+
+📅 **Time:** Sunday, April 27, 1:30–3:00 p.m. MDT  
+📍 **Place:** Colorado Convention Center, Exhibit Hall F, Exhibit Hall Level  
+👥 **Authors:** <span style="color: #f77f00;"><strong>Hanhui Bao</strong></span>, University of Tennessee; Rachel Min Wong, University of Tennessee; Whitt Williams, University of Tennessee; Ashley King, University of Tennessee; Christopher Steven Perez, University of Tennessee  
+🎯 **Title:** *College Students' Interactions with Canvas LMS (Learning Management System) in a Blended Learning Environment (Poster 9)*

@@ -1,0 +1,86 @@
+/*-- scss:defaults --*/
+
+/* UTK Colors */
+$ut-orange: #f77f00;
+$ut-light-gray: #f8f9fa;
+$ut-mid-gray: #6c757d;
+$ut-dark-gray: #343a40;
+
+/* Font families */
+$font-family-sans-serif: 'Open Sans', sans-serif;
+$headings-font-family: 'Poppins', sans-serif;
+
+/* Navbar colors */
+$navbar-bg: $ut-light-gray;
+$navbar-color: $ut-dark-gray;
+$navbar-hover-color: $ut-orange;
+
+/* Link colors */
+$link-color: $ut-orange;
+$link-hover-color: darken($ut-orange, 10%);
+
+/*-- scss:rules --*/
+
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Poppins:wght@600&display=swap');
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: $ut-dark-gray;
+  font-family: $headings-font-family;
+}
+
+/* Body text */
+body {
+  background-color: #fcfcfc; // Subtle off-white background
+  color: $ut-mid-gray;
+  font-family: $font-family-sans-serif;
+}
+
+/* Links */
+a {
+  color: $link-color;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: $link-hover-color;
+}
+
+/* Navbar styling */
+.navbar {
+  background-color: $navbar-bg !important;
+  color: $navbar-color;
+
+  .nav-link {
+    color: $navbar-color;
+
+    &:hover {
+      color: $navbar-hover-color;
+    }
+  }
+
+  .navbar-brand {
+    font-family: $headings-font-family;
+    color: $navbar-color;
+
+    &:hover {
+      color: $navbar-hover-color;
+    }
+  }
+}
+
+/* Footer */
+footer {
+  background-color: $ut-light-gray;
+  color: $ut-mid-gray;
+  font-family: $font-family-sans-serif;
+  padding: 1em 0;
+}
+
+/* Headings underlines for flair */
+h2 {
+  border-bottom: 2px solid lighten($ut-orange, 30%);
+  padding-bottom: 0.3em;
+  margin-bottom: 0.6em;
+}

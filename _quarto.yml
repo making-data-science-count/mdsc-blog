@@ -20,4 +20,5 @@ cname: makingdatasciencecount.com  # This goes at the top level (outside website
 format:
   html:
     theme:
-      light: litera
+      - lux
+      - style.scss    # Add custom CSS for subtle orange accents
