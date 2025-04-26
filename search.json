@@ -1,5 +1,54 @@
 [
   {
+    "objectID": "about-us.html",
+    "href": "about-us.html",
+    "title": "About Us",
+    "section": "",
+    "text": "Joshua M. Rosenberg, Ph.D.\nAssociate Professor, Theory & Practice in Teacher Education\njmrosenberg@utk.edu · Personal website"
+  },
+  {
+    "objectID": "about-us.html#alumni-graduates",
+    "href": "about-us.html#alumni-graduates",
+    "title": "About Us",
+    "section": "Alumni / Graduates",
+    "text": "Alumni / Graduates\nAmanda Hendricks — Ph.D. student, TPTE\nBio: Place-based-learning enthusiast who “really digs being outside.”\nSarah Narvaiz, Ph.D.\nPh.D. in Educational Psychology & Research\nSurvey research · Psychometrics · QuantCrit · Equity\nBio: Sarah’s research centers on survey design, psychometrics, and QuantCrit methods to support underserved and under-represented learners. Away from work she enjoys powerlifting and community service.\nMaryrose Weatherton, Ph.D.\nPh.D. in Ecology & Evolutionary Biology\nBio: Maryrose gardens, rock-climbs, and hangs out with her dogs (Poppy & Bug) when she’s not digging into data.\nRita Swartzentruber\nM.S. in Math Education, UT Knoxville\nBio: Runner, hiker, mountain-biker, and swim coach who loves the outdoors with husband Ryan & dog Collin.\nKebba Nyama Leigh\nB.S. candidate in Data Science\nBio: Memphis-born musician, language-learner, gamer, and budding entrepreneur."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "KonFound-It! Shiny app\nKonFound-It! R package\ntidyLPA R package\nAmplifyGAIN"
+  },
+  {
+    "objectID": "resources.html#software",
+    "href": "resources.html#software",
+    "title": "Resources",
+    "section": "",
+    "text": "KonFound-It! Shiny app\nKonFound-It! R package\ntidyLPA R package\nAmplifyGAIN"
+  },
+  {
+    "objectID": "resources.html#recent-open-access-papers",
+    "href": "resources.html#recent-open-access-papers",
+    "title": "Resources",
+    "section": "Recent Open-Access Papers",
+    "text": "Recent Open-Access Papers\nRosenberg, J., Kubsch, M., Sorge, S., Tautz, S., Pritchard, C., Garner, A., & Xu, Z. (2025). Embracing Uncertainty in Science: The ABCs of Data and the Confidence Updater. link\nBorchers, C., Darriet, C., Rosenberg, J. M., & López, F. (2025). Dual Intent in Dual-language Programs: Internet Data Mining of School District Communications. TechTrends, 1-13. link\nPritchard, C., Borchers, C., Joshua, M. R., Fox, A. K., & Stegenga, S. M. (2024). The datafication of student information on X (Twitter). Computers and Education Open, 7, 100197. link\nRosenberg, J. M., Bhidya, H., & Pritchard, C. (2025). Triangulating Computational and Qualitative Methods to Measure Scientific Uncertainty. In Applying Machine Learning in Science Education Research: When, How, and Why? (pp. 313-329). Cham: Springer Nature Switzerland. link\nDogucu, M., Kazak, S., & Rosenberg, J. M. (2024). The Design and Implementation of a Bayesian Data Analysis Lesson for Pre-Service Mathematics and Science Teachers. Journal of Statistics and Data Science Education, 1-12. link"
+  },
+  {
+    "objectID": "posts/aera-2025/index.html",
+    "href": "posts/aera-2025/index.html",
+    "title": "Presentations at AERA 2025",
+    "section": "",
+    "text": "The Making Data Science Count Research Group had a number of presentations at AERA 2025!\n\nHow Are Robots Used in Education? Mapping the Robotics Resources Landscape on Teachers Pay Teachers\nTime: Wednesday, April 23, 2:30–4:00 p.m. MDT\nPlace: Colorado Convention Center, Exhibit Hall F, Exhibit Hall Level\nAuthors: Hanhui Bao, University of Tennessee; Yiwen Li, Arizona State University; Zhaoji Wang, University of Hong Kong; Joshua M. Rosenberg, University of Tennessee; Matthew J. Koehler, Michigan State University\n\n\n\nAI and Educational Justice: A Critical Conversation\nTime: Wednesday, April 23, 2:30–4:00 p.m. MDT\nPlace: Colorado Convention Center, Mile High Ballroom 1AB, Ballroom Level\nAuthors: Christina Krist, Stanford University; Elizabeth B. Dyer, University of Illinois at Urbana-Champaign; Eugene M. Cox, University of Illinois at Urbana-Champaign; Joshua M. Rosenberg, University of Tennessee\n\n\n\nThe Accessibility of Published Educational Research\nTime: Thursday, April 24, 1:45–3:15 p.m. MDT\nPlace: Colorado Convention Center, Four Seasons Ballroom 2-3, Ballroom Level\nAuthors: Joshua M. Rosenberg, University of Tennessee; George Veletsianos, University of Minnesota; Enilda J. Romero-Hall, University of Tennessee; Emilie Allen, University of Tennessee\nLink to presentation\n\n\n\nDeveloping an Assessment of Informal Data Science Learning: Two Cycles of Development, Implementation, and Revision\nTime: Friday, April 25, 11:40 a.m.–1:10 p.m. MDT\nPlace: Colorado Convention Center, Room 403, Meeting Room Level\nAuthors: Leah Rosenbaum, Teachers College, Columbia University; Cody C. Pritchard, University of Tennessee; Joshua M. Rosenberg, University of Tennessee; Paulo Blikstein, Teachers College, Columbia University\nLink to presentation\n\n\n\nCollege Students’ Interactions with Canvas LMS (Learning Management System) in a Blended Learning Environment\nTime: Sunday, April 27, 1:30–3:00 p.m. MDT\nPlace: Colorado Convention Center, Exhibit Hall F, Exhibit Hall Level\nAuthors: Hanhui Bao, University of Tennessee; Rachel Min Wong, University of Tennessee; Whitt Williams, University of Tennessee; Ashley King, University of Tennessee; Christopher Steven Perez, University of Tennessee"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Welcome to the website for the Making Data Science Count Research Group.\n\nWe are based in the College of Education, Health, and Human Sciences at the University of Tennessee, Knoxville.\nThe mission of the Making Data Science Count Research Group research group is to leverage the collective efforts of its members to study science education, computer and data science education, and educational technology–and other domains. The group is dynamic and inclusive, reflecting the group’s expertise and how group members collaborate. The group studies both K-12 and post-secondary and informal learning and uses a variety of theoretical and methodological approaches to do so.\n\n\n\n\n\nPlease visit the About Us page to learn a bit more about the group and its members, the Projects page for ongoing research endeavors, and Resources to links to presentations, papers, software, curricula, and other products that come from our research.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPresentations at AERA 2025\n\n\n\n\n\n\nconference\n\n\nAERA\n\n\npresentations\n\n\n\n\n\n\n\n\n\nApr 21, 2025\n\n\nJosh\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
@@ -47,54 +96,5 @@
     "title": "Projects",
     "section": "Social Media and Student Privacy",
     "text": "Social Media and Student Privacy\nWe have a number of ongoing projects focused on social media data and student privacy. Here’s one recent example open-access paper."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome!",
-    "section": "",
-    "text": "Welcome to the website for the Making Data Science Count Research Group.\n\nWe are based in the College of Education, Health, and Human Sciences at the University of Tennessee, Knoxville.\nThe mission of the Making Data Science Count Research Group research group is to leverage the collective efforts of its members to study science education, computer and data science education, and educational technology–and other domains. The group is dynamic and inclusive, reflecting the group’s expertise and how group members collaborate. The group studies both K-12 and post-secondary and informal learning and uses a variety of theoretical and methodological approaches to do so.\n\n\n\n\n\nPlease visit the About Us page to learn a bit more about the group and its members, the Projects page for ongoing research endeavors, and Resources to links to presentations, papers, software, curricula, and other products that come from our research.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPresentations at AERA 2025\n\n\n\n\n\n\nconference\n\n\nAERA\n\n\npresentations\n\n\n\n\n\n\n\n\n\nApr 21, 2025\n\n\nJosh\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/aera-2025/index.html",
-    "href": "posts/aera-2025/index.html",
-    "title": "Presentations at AERA 2025",
-    "section": "",
-    "text": "The Making Data Science Count Research Group had a number of presentations at AERA 2025!\n\nHow Are Robots Used in Education? Mapping the Robotics Resources Landscape on Teachers Pay Teachers\nTime: Wednesday, April 23, 2:30–4:00 p.m. MDT\nPlace: Colorado Convention Center, Exhibit Hall F, Exhibit Hall Level\nAuthors: Hanhui Bao, University of Tennessee; Yiwen Li, Arizona State University; Zhaoji Wang, University of Hong Kong; Joshua M. Rosenberg, University of Tennessee; Matthew J. Koehler, Michigan State University\n\n\n\nAI and Educational Justice: A Critical Conversation\nTime: Wednesday, April 23, 2:30–4:00 p.m. MDT\nPlace: Colorado Convention Center, Mile High Ballroom 1AB, Ballroom Level\nAuthors: Christina Krist, Stanford University; Elizabeth B. Dyer, University of Illinois at Urbana-Champaign; Eugene M. Cox, University of Illinois at Urbana-Champaign; Joshua M. Rosenberg, University of Tennessee\n\n\n\nThe Accessibility of Published Educational Research\nTime: Thursday, April 24, 1:45–3:15 p.m. MDT\nPlace: Colorado Convention Center, Four Seasons Ballroom 2-3, Ballroom Level\nAuthors: Joshua M. Rosenberg, University of Tennessee; George Veletsianos, University of Minnesota; Enilda J. Romero-Hall, University of Tennessee; Emilie Allen, University of Tennessee\nLink to presentation\n\n\n\nDeveloping an Assessment of Informal Data Science Learning: Two Cycles of Development, Implementation, and Revision\nTime: Friday, April 25, 11:40 a.m.–1:10 p.m. MDT\nPlace: Colorado Convention Center, Room 403, Meeting Room Level\nAuthors: Leah Rosenbaum, Teachers College, Columbia University; Cody C. Pritchard, University of Tennessee; Joshua M. Rosenberg, University of Tennessee; Paulo Blikstein, Teachers College, Columbia University\nLink to presentation\n\n\n\nCollege Students’ Interactions with Canvas LMS (Learning Management System) in a Blended Learning Environment\nTime: Sunday, April 27, 1:30–3:00 p.m. MDT\nPlace: Colorado Convention Center, Exhibit Hall F, Exhibit Hall Level\nAuthors: Hanhui Bao, University of Tennessee; Rachel Min Wong, University of Tennessee; Whitt Williams, University of Tennessee; Ashley King, University of Tennessee; Christopher Steven Perez, University of Tennessee"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Joshua M. Rosenberg, Ph.D. Associate Professor, Theory & Practice in Teacher Education jmrosenberg@utk.edu · Personal website"
-  },
-  {
-    "objectID": "about.html#alumni-graduates",
-    "href": "about.html#alumni-graduates",
-    "title": "About",
-    "section": "Alumni / Graduates",
-    "text": "Alumni / Graduates\n\nAmanda Hendricks — Ph.D. student, TPTE Bio: Place-based-learning enthusiast who “really digs being outside.”\n\n\nSarah Narvaiz, Ph.D. Ph.D. in Educational Psychology & Research Survey research · Psychometrics · QuantCrit · Equity Bio: Sarah’s research centers on survey design, psychometrics, and QuantCrit methods to support underserved and under-represented learners. Away from work she enjoys powerlifting and community service.\n\n\nMaryrose Weatherton, Ph.D. Ph.D. in Ecology & Evolutionary Biology Bio: Maryrose gardens, rock-climbs, and hangs out with her dogs (Poppy & Bug) when she’s not digging into data.\n\n\nRita Swartzentruber M.S. in Math Education, UT Knoxville Bio: Runner, hiker, mountain-biker, and swim coach who loves the outdoors with husband Ryan & dog Collin.\n\n\nKebba Nyama Leigh B.S. candidate in Data Science Bio: Memphis-born musician, language-learner, gamer, and budding entrepreneur."
-  },
-  {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
-    "section": "",
-    "text": "KonFound-It! Shiny app\nKonFound-It! R package\ntidyLPA R package\nAmplifyGAIN"
-  },
-  {
-    "objectID": "resources.html#software",
-    "href": "resources.html#software",
-    "title": "Resources",
-    "section": "",
-    "text": "KonFound-It! Shiny app\nKonFound-It! R package\ntidyLPA R package\nAmplifyGAIN"
-  },
-  {
-    "objectID": "resources.html#recent-open-access-papers",
-    "href": "resources.html#recent-open-access-papers",
-    "title": "Resources",
-    "section": "Recent Open-Access Papers",
-    "text": "Recent Open-Access Papers\nRosenberg, J., Kubsch, M., Sorge, S., Tautz, S., Pritchard, C., Garner, A., & Xu, Z. (2025). Embracing Uncertainty in Science: The ABCs of Data and the Confidence Updater. link\nBorchers, C., Darriet, C., Rosenberg, J. M., & López, F. (2025). Dual Intent in Dual-language Programs: Internet Data Mining of School District Communications. TechTrends, 1-13. link\nPritchard, C., Borchers, C., Joshua, M. R., Fox, A. K., & Stegenga, S. M. (2024). The datafication of student information on X (Twitter). Computers and Education Open, 7, 100197. link\nRosenberg, J. M., Bhidya, H., & Pritchard, C. (2025). Triangulating Computational and Qualitative Methods to Measure Scientific Uncertainty. In Applying Machine Learning in Science Education Research: When, How, and Why? (pp. 313-329). Cham: Springer Nature Switzerland. link\nDogucu, M., Kazak, S., & Rosenberg, J. M. (2024). The Design and Implementation of a Bayesian Data Analysis Lesson for Pre-Service Mathematics and Science Teachers. Journal of Statistics and Data Science Education, 1-12. link"
   }
 ]
