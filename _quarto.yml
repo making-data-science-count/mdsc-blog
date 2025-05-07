@@ -14,7 +14,7 @@ website:
       - text: "Projects"
         href: projects.qmd
       - text: "Resources"
-        href: projects.qmd
+        href: resources.qmd
   site-url: https://makingdatasciencecount.com  # This stays in website:
 
 cname: makingdatasciencecount.com  # This goes at the top level (outside website:)
