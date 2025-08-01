@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://makingdatasciencecount.com/about-us.html</loc>
-    <lastmod>2025-05-07T20:33:01.689Z</lastmod>
-  </url>
-  <url>
     <loc>https://makingdatasciencecount.com/projects.html</loc>
-    <lastmod>2025-05-07T20:33:01.697Z</lastmod>
-  </url>
-  <url>
-    <loc>https://makingdatasciencecount.com/posts/aera-2025/index.html</loc>
-    <lastmod>2025-05-07T20:33:01.697Z</lastmod>
+    <lastmod>2025-08-01T12:34:46.633Z</lastmod>
   </url>
   <url>
     <loc>https://makingdatasciencecount.com/resources.html</loc>
-    <lastmod>2025-05-07T20:33:01.697Z</lastmod>
+    <lastmod>2025-08-01T12:34:46.633Z</lastmod>
   </url>
   <url>
     <loc>https://makingdatasciencecount.com/index.html</loc>
-    <lastmod>2025-05-07T20:33:01.697Z</lastmod>
+    <lastmod>2025-08-01T12:34:46.632Z</lastmod>
+  </url>
+  <url>
+    <loc>https://makingdatasciencecount.com/posts/aera-2025/index.html</loc>
+    <lastmod>2025-08-01T12:34:46.633Z</lastmod>
+  </url>
+  <url>
+    <loc>https://makingdatasciencecount.com/about-us.html</loc>
+    <lastmod>2025-08-01T12:34:46.625Z</lastmod>
   </url>
 </urlset>
